@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Ayush M.C
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=600&lines=AI+%2F+ML+Developer;Building+Generative+%26+Agentic+AI;Full-Stack+AI+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=600&lines=AI+%2F+ML+Developer;Building+Generative+%26+Agentic+AI;+AI+Engineer;ML+Enthusiast)
 
 ---
 
