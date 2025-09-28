@@ -13,8 +13,6 @@
 🛰️ Worked as **AI/ML Intern at Rooman Technologies** (Sep 2024 – Feb 2025)  
 🤖 Experienced in **Generative & Agentic AI applications**, multi-modal assistants, and RAG pipelines  
 🌱 Building **CUBER** – private, Jarvis-level AI assistant, and advancing **agentic AI** systems  
-👨‍💻 Creator of **Vecem** – open-source platform for sustainable AI solutions  
-🏆 Hackathon Winner – rapid prototyping, AI integration, and competitive innovation  
 🧠 Researching **LLM intelligence** via question-based evaluation and autonomous AI reasoning  
 💬 Ask me about **Agentic AI, LangChain, LangFlow, RAG pipelines, LLMs, and Computer Vision**  
 📫 Reach me at: ayushshekar045@gmail.com  
