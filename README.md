@@ -7,20 +7,18 @@
 
 ---
 
-## 📫 Contact Me
-- ✉️ Email: ayushshekar045@gmail.com  
-- 📞 Phone: +91 9113217988  
-- 🌍 Location: Bengaluru, India  
-- 🔗 LinkedIn: [ayush-shekar](https://www.linkedin.com/in/ayush-shekar-14967926b)  
-- 🐱 GitHub: [AyushShekar9113](https://github.com/AyushShekar9113)  
+## 📝 About Me
 
----
-
-## 💼 Professional Summary
-AI/ML Developer experienced in **designing and deploying AI-powered applications and autonomous agents**.  
-- Skilled in building **multi-modal AI assistants** for voice and text using **Generative AI**, **RAG**, and frameworks like **LangChain, LangFlow, LangGraph**.  
-- Experienced in full-stack AI development with **Python, Flask, FastAPI, MongoDB**, optimizing pipelines for **real-time performance** on resource-constrained environments.  
-- Passionate about **leveraging AI to solve real-world problems** in agriculture, recruitment, and enterprise applications, with focus on autonomous, context-aware, and scalable solutions.
+💻 Working as **AI Developer at Skills Agency, Bengaluru** – building AI-powered applications and autonomous AI agents  
+🛰️ Worked as **AI/ML Intern at Rooman Technologies** (Sep 2024 – Feb 2025)  
+🤖 Experienced in **Generative & Agentic AI applications**, multi-modal assistants, and RAG pipelines  
+🌱 Building **CUBER** – private, Jarvis-level AI assistant, and advancing **agentic AI** systems  
+👨‍💻 Creator of **Vecem** – open-source platform for sustainable AI solutions  
+🏆 Hackathon Winner – rapid prototyping, AI integration, and competitive innovation  
+🧠 Researching **LLM intelligence** via question-based evaluation and autonomous AI reasoning  
+💬 Ask me about **Agentic AI, LangChain, LangFlow, RAG pipelines, LLMs, and Computer Vision**  
+📫 Reach me at: ayushshekar045@gmail.com  
+⚡ Fun fact: I love building AI solutions that **bridge real-world problems with cutting-edge AI technology!**
 
 ---
 
