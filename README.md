@@ -15,7 +15,9 @@
 🌱 Building **CUBER** – private, Jarvis-level AI assistant, and advancing **agentic AI** systems  
 🧠 Researching **LLM intelligence** via question-based evaluation and autonomous AI reasoning  
 💬 Ask me about **Agentic AI, LangChain, LangFlow, RAG pipelines, LLMs, and Computer Vision**  
-📫 Reach me at: ayushshekar045@gmail.com  
+📫 Reach me at: ayushshekar045@gmail.com
+🔗 LinkedIn: [ayush-shekar](https://www.linkedin.com/in/ayush-shekar-14967926b) – Connect with me for AI, ML & Agentic AI insights
+
 ⚡ Fun fact: I love building AI solutions that **bridge real-world problems with cutting-edge AI technology!**
 
 ---
