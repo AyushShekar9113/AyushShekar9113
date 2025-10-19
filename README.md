@@ -23,7 +23,7 @@
 ---
 
 ## 🎓 Education
-**B.Tech in Artificial Intelligence and Machine Learning (AIML)** — Vemana Institute of Technology (2021 - 2025)
+**B.E in Artificial Intelligence and Machine Learning (AIML)** — Vemana Institute of Technology (2021 - 2025)
 
 ---
 
