@@ -92,7 +92,7 @@
 - Researching **Large Language Models (LLMs)** to push the boundaries of AI understanding and reasoning.  
 - Building **CUBER** – a **private, Jarvis-level AI assistant**, designed to be one of the world’s most advanced, autonomous, and multi-modal AI systems.  
 - Developing **agentic AI tools** for real-world applications in agriculture, recruitment, and enterprise domains.  
-- Advancing sustainable AI through open-source contributions and innovative projects like **Vecem**.  
+- Advancing sustainable AI through open-source contributions and innovative projects .  
 - Leading hackathon teams and research projects to create **scalable, context-aware, autonomous AI solutions**.
 
 ---
