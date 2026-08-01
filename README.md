@@ -1,237 +1,368 @@
-<!-- =============================== -->
-<!-- GitHub Profile README -->
-<!-- =============================== -->
+<!-- ========================================================= -->
+<!--                AYUSH M.C - GITHUB PROFILE                 -->
+<!-- ========================================================= -->
 
-<p align="center">
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=AyushShekar9113&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
-<h1 align="center">
-Hi 👋, I'm Ayush M.C
-</h1>
+# 👋 Hi, I'm Ayush M.C
 
-<h3 align="center">
-AI Engineer • Generative AI • Agentic AI • LLM Applications • RAG • Backend AI Systems
-</h3>
+### AI Engineer • Generative AI • Agentic AI • LLM Applications • RAG • Backend AI Systems
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer;Building+Enterprise+AI+Applications;Generative+AI+Developer;Agentic+AI+Developer;LangChain+%7C+LangGraph+%7C+FastAPI;LLMs+%7C+RAG+%7C+MCP;Python+Developer;Always+Learning+New+AI+Technologies"/>
 
-<a href="https://www.linkedin.com/in/ayush-shekar-ai-engineer">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<br>
 
 <a href="mailto:ayushshekar045@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-shekar-ai-engineer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/AyushShekar9113">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm an **AI Engineer** passionate about designing intelligent systems that solve real-world business problems through **Generative AI**, **Large Language Models (LLMs)**, **Agentic AI**, and **Retrieval-Augmented Generation (RAG)**.
+
+Currently, I build enterprise AI applications, autonomous AI agents, scalable backend systems, and conversational AI solutions while exploring the future of intelligent autonomous systems.
+
+---
+
+## 👨‍💻 Quick Overview
+
+| 💼 | Information |
+|:--|:------------|
+| 👨‍💻 Role | AI Engineer |
+| 📍 Location | Bengaluru, Karnataka, India |
+| 💬 Ask Me About | LLMs, Agentic AI, LangGraph, MCP, RAG, FastAPI |
+| 🌱 Learning | Multi-Agent Systems, AI Infrastructure, Advanced LLMs |
+| 🎯 Interests | Enterprise AI, Conversational AI, AI Automation |
+| 🚀 Currently Building | CUBER – Autonomous AI Assistant |
+| ⚡ Fun Fact | I enjoy building AI that solves real-world problems. |
+
+---
+
+# 🎯 What I Do
+
+🤖 Build Enterprise AI Applications
+
+🧠 Develop Autonomous AI Agents
+
+⚡ Build FastAPI & Flask Backend APIs
+
+📚 Create RAG Pipelines
+
+🔍 Design AI Search Systems
+
+🎤 Develop Voice Assistants
+
+💬 Build Conversational AI
+
+🌐 Develop Multi-modal AI Systems
+
+🚀 Optimize LLM Applications
+
+🛰 Build MCP-Based AI Workflows
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,mysql"/>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🤖 AI / Machine Learning
 
-I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems using **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Multi-modal AI**.
+<p>
 
-Currently, I develop enterprise AI applications, autonomous AI agents, and scalable backend systems for workflow automation and conversational intelligence.
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-I enjoy designing AI systems that combine:
+</p>
 
-- 🤖 Generative AI
-- 🧠 Agentic AI
-- 📚 RAG Pipelines
-- 🔥 LangChain
-- ⚡ LangGraph
-- 🛠 MCP (Model Context Protocol)
-- 🎤 Voice AI
-- 💬 Conversational AI
-- 🌐 FastAPI & Flask
+**Expertise**
 
----
-
-# 🚀 Current Role
-
-## AI Engineer
-
-📍 Bengaluru, India
-
-Currently working on:
-
-- Enterprise AI applications
-- Autonomous AI Agents
-- Multi-modal AI Assistants
-- Conversational AI
-- MCP Workflows
-- LangGraph Pipelines
-- Claude & LLM Optimization
-- AI Workflow Automation
-- FastAPI Backend Systems
-- Prompt Engineering
-- AI Reporting Systems
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
----
-
-## AI & Machine Learning
-
+- Large Language Models (LLMs)
 - Generative AI
 - Agentic AI
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- RAG
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - Conversational AI
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- AI Agents
 - Speech Recognition
 - Text-to-Speech
-- AI Agents
 
 ---
 
-## Frameworks
+## ⚙ Frameworks
 
-- FastAPI
-- Flask
-- Streamlit
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+
+</p>
+
+Additionally,
+
 - LangChain
 - LangGraph
 - LangFlow
-- TensorFlow
-- HuggingFace Transformers
-- Scikit-learn
+- Streamlit
+- Hugging Face Transformers
+- Scikit-Learn
 
 ---
 
-## AI Tools
+## 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+- Vector Databases
+- Embedding Stores
+
+---
+
+## ☁ DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"/>
+
+</p>
+
+Also experienced with
 
 - Ollama
 - MCP
+- REST APIs
+- Claude
 - Groq
 - OpenAI APIs
-- Claude APIs
-- Vector Databases
 
 ---
 
-## Databases
+## 📊 Visualization
 
-- MongoDB
-- MySQL
+- Tableau
+- Plotly
+- Streamlit
+
+---
+
+# 🏆 Core Expertise
+
+```text
+Generative AI
+██████████████████████
+
+Agentic AI
+█████████████████████
+
+LangChain
+████████████████████
+
+LangGraph
+████████████████████
+
+FastAPI
+███████████████████
+
+RAG
+████████████████████
+
+Prompt Engineering
+███████████████████
+
+Python
+██████████████████████
+
+Machine Learning
+██████████████████
+
+NLP
+███████████████████
+
+Backend Development
+████████████████████
+```
 
 ---
 
-## Dev Tools
+# 🌟 Areas of Interest
 
-- Docker
-- Git
-- GitHub
-- Linux
-- REST APIs
-- Postman
+- 🤖 Artificial Intelligence
 
----
+- 🧠 Large Language Models
+
+- 🚀 Agentic AI
+
+- 📚 Retrieval-Augmented Generation
+
+- 🎤 Conversational AI
+
+- 🛰 Model Context Protocol (MCP)
+
+- ⚡ AI Workflow Automation
+
+- 🌐 Backend AI Systems
+
+- 📊 AI Infrastructure
+
+- 💡 Human-Centered AI
+
+<!-- ========================================================= -->
+<!--                  PROFESSIONAL EXPERIENCE                  -->
+<!-- ========================================================= -->
 
 # 💼 Professional Experience
 
-## AI Engineer
+## 🚀 AI Engineer
 
-📍 Bengaluru
+**📍 Bengaluru, India**
 
-- Built enterprise AI applications
-- Developed autonomous AI agents
-- Designed scalable backend architectures
-- Built multi-modal assistants
-- Developed RAG pipelines
-- Implemented MCP workflows
-- Built LangGraph workflows
-- Prompt optimization
-- Claude optimization
-- AI reporting systems
-- Session-aware AI
-- Slack AI Assistants
-- JWT Authentication
-- FastAPI backend
+**🗓 Present**
+
+Building enterprise-grade AI applications and intelligent automation solutions.
+
+### Highlights
+
+- 🤖 Developed enterprise AI applications powered by Generative AI
+- 🧠 Built autonomous AI agents using LangGraph, LangChain & MCP
+- 💬 Designed multi-modal voice & text AI assistants
+- ⚡ Developed scalable FastAPI & Flask backend systems
+- 📚 Built Retrieval-Augmented Generation (RAG) pipelines
+- 🔥 Engineered prompt optimization pipelines reducing LLM token usage by **98%**
+- 💡 Developed conversational AI systems for web and Slack
+- 🔐 Implemented JWT authentication & role-based access
+- 🚀 Optimized inference performance for production AI applications
 
 ---
 
-## AI/ML Intern
+## 🤖 AI/ML Intern
 
-Rooman Technologies
+**Rooman Technologies**
 
-- ML Classification
-- Regression Models
-- Feature Engineering
-- Data Pipelines
-- Model Deployment
-- NLP Applications
+**Sep 2024 – Feb 2025**
+
+### Highlights
+
+- 📊 Developed ML models achieving **85%+ accuracy**
+- ⚙ Built automated preprocessing pipelines
+- 📈 Worked on classification & regression models
+- 🧹 Improved training efficiency through feature engineering
+- 🚀 Assisted deployment of production ML applications
+
+---
+
+# 📅 Career Timeline
+
+```text
+2025 ─────────────────────────────── Present
+
+🚀 AI Engineer
+   Enterprise AI Applications
+   Agentic AI
+   LLM Applications
+   FastAPI
+   LangGraph
+   MCP
+
+          │
+
+🤖 AI/ML Intern
+   Machine Learning
+   NLP
+   Streamlit
+   Data Analytics
+
+          │
+
+🎓 B.E AIML
+Vemana Institute of Technology
+```
 
 ---
 
 # 🚀 Featured Projects
 
-# 🤖 CUBER
+---
 
-Private Jarvis-Level AI Assistant
+## 🤖 CUBER
 
-### Features
+### Autonomous AI Assistant
 
-- Autonomous AI
-- Multi-Agent Workflows
-- Voice Assistant
-- Local LLM
-- Memory
-- MCP
-- LangGraph
-- Tool Calling
-- Workflow Automation
+A private Jarvis-inspired AI assistant designed to execute tasks autonomously using Large Language Models and AI Agents.
 
-Tech
+### ✨ Features
 
-Python
+✅ Voice Assistant
 
-LangChain
+✅ Autonomous AI Agents
 
-LangGraph
+✅ Context Memory
 
-Ollama
+✅ MCP Integration
 
-FastAPI
+✅ Multi-modal AI
 
-SpeechRecognition
+✅ Local LLM Support
 
-gTTS
+✅ Workflow Automation
+
+✅ Tool Calling
+
+### ⚙ Tech Stack
+
+Python • LangChain • LangGraph • Ollama • FastAPI • SpeechRecognition • gTTS • MCP
 
 ---
 
-# 🌾 AgriNex
+## 🌾 AgriNex
 
-AI Marketplace for Farmers
+### AI-Powered Agricultural Marketplace
+
+Helping farmers directly connect with buyers through conversational AI.
 
 ### Features
 
-- Voice AI
-- Crop Price Updates
-- Weather Alerts
-- Pest Detection
-- Buyer Matching
-- Multilingual Assistant
+🌾 Voice-based Farmer Assistant
 
-Tech
+📈 Real-Time Crop Prices
+
+☀ Weather Alerts
+
+🐛 Pest Notifications
+
+🌐 Multilingual Interaction
+
+🛒 Buyer Marketplace
+
+📊 Admin Dashboard
+
+### Tech Stack
 
 Python
 
@@ -245,150 +376,302 @@ SpeechRecognition
 
 gTTS
 
----
+HTML
 
-# 🔍 SociaLens
+CSS
 
-AI Reddit Analytics Platform
+JavaScript
 
-Features
+🔗 **GitHub**
 
-- BERTopic
-- HDBSCAN
-- UMAP
-- Sentiment Analysis
-- Emotion Detection
-- Fact Checking
-- Summarization
-- Trend Analysis
+https://github.com/AyushShekar9113/Agrinex--AI-Powered-Market-Place
 
 ---
 
-# 📄 AI Recruitment System
+## 🔍 SociaLens
 
-Features
+### AI Reddit Trend Analyzer
 
-- Resume Parsing
-- Candidate Ranking
-- Skill Extraction
-- Resume Matching
-- Learning Recommendation
-- AI Candidate Screening
+Intelligent dashboard for discovering trends and verifying online information.
+
+### Features
+
+📊 BERTopic
+
+📈 UMAP
+
+🧠 HDBSCAN
+
+😊 Emotion Analysis
+
+📰 Fact Checking
+
+📝 Summarization
+
+📉 Trend Analytics
+
+### Tech Stack
+
+Python
+
+Streamlit
+
+BERTopic
+
+Transformers
+
+Plotly
+
+Groq API
+
+🔗 **GitHub**
+
+https://github.com/AyushShekar9113/SociaLens
+
+---
+
+## 📄 AI Recruitment System
+
+### Intelligent Resume Screening Platform
+
+Automated AI-powered recruitment platform.
+
+### Features
+
+📄 Resume Parsing
+
+🧠 Skill Extraction
+
+⭐ Candidate Ranking
+
+🎯 Resume Matching
+
+📚 Learning Recommendations
+
+### Tech Stack
+
+Python
+
+Flask
+
+MongoDB
+
+Scikit-Learn
+
+HTML
+
+CSS
+
+JavaScript
+
+🔗 **GitHub**
+
+https://github.com/AyushShekar9113/AI-Recruitment-System
 
 ---
 
 # 🏆 Achievements
 
-✅ Enterprise AI Engineer
+🏅 AI Engineer
 
-✅ Autonomous AI Systems
+🏅 Enterprise AI Development
 
-✅ AI Workflow Automation
+🏅 Agentic AI Systems
 
-✅ RAG Pipelines
+🏅 Production LLM Applications
 
-✅ LangGraph Applications
+🏅 Prompt Optimization
 
-✅ Multi-modal AI
+🏅 Backend AI Engineering
 
-✅ Prompt Engineering
+🏅 RAG Pipeline Development
 
-✅ Production AI Deployment
+🏅 Multi-modal AI
 
-✅ Backend AI Development
+🏅 Conversational AI
 
----
-
-# 🌱 Currently Learning
-
-- Advanced Agentic AI
-- Multi-Agent Systems
-- LLM Evaluation
-- AI Infrastructure
-- Distributed AI
-- AI System Design
+🏅 AI Workflow Automation
 
 ---
 
-# 📈 GitHub Stats
+# 🌱 Currently Working On
 
-![](https://github-readme-stats.vercel.app/api?username=AyushShekar9113&show_icons=true&theme=tokyonight)
+🚀 Advanced Agentic AI
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AyushShekar9113&theme=tokyonight)
+🧠 Multi-Agent Systems
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShekar9113&layout=compact&theme=tokyonight)
+📚 LLM Evaluation
+
+⚡ AI Infrastructure
+
+🤖 AI Workflow Automation
+
+🌐 Backend AI Platforms
+
+💬 Conversational AI
+
+🛰 Model Context Protocol
+
+☁ Cloud AI Deployment
+
+<!-- ========================================================= -->
+<!--                     GITHUB DASHBOARD                      -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushShekar9113&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShekar9113&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-# 🔥 GitHub Activity
+<div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AyushShekar9113&theme=react-dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShekar9113&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushShekar9113&theme=react-dark"/>
+
+</div>
 
 ---
 
 # 🏅 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AyushShekar9113&theme=tokyonight&margin-w=15)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AyushShekar9113&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</div>
 
 ---
 
-# 🎓 Education
+# 🐍 Contribution Snake
 
-**Bachelor of Engineering**
+<div align="center">
 
-Artificial Intelligence & Machine Learning
+<img src="https://raw.githubusercontent.com/AyushShekar9113/AyushShekar9113/output/github-contribution-grid-snake.svg"/>
 
-Vemana Institute of Technology
-
-2021 – 2025
+</div>
 
 ---
 
 # 📜 Certifications
 
-- Microsoft × LinkedIn – Generative AI Productivity
-- Python for Data Science (NPTEL)
-- Deep Learning (Coursera)
+| 🎓 Certification | Organization |
+|:-----------------|:-------------|
+| Build Your Generative AI Productivity Skills | Microsoft × LinkedIn |
+| Python for Data Science | NPTEL |
+| Deep Learning (Advanced Algorithms) | Coursera |
+| Python Programming | Coursera |
+| Advanced Data Science & AI | YBI Foundation |
 
 ---
 
-# 🔬 Areas of Interest
+# 🎓 Education
 
-- Large Language Models
-- Agentic AI
-- Multi-Agent Systems
-- RAG
-- Conversational AI
-- AI Infrastructure
-- AI Agents
-- Prompt Engineering
-- Knowledge Graphs
-- AI Automation
-- Backend AI
-- Human-Centered AI
+## Bachelor of Engineering
+
+**Artificial Intelligence & Machine Learning**
+
+🏛 Vemana Institute of Technology
+
+📍 Bengaluru, Karnataka
+
+🗓 2021 – 2025
 
 ---
 
-# 🤝 Connect With Me
+# 🔬 Research Interests
 
-📧 Email
+🧠 Large Language Models
 
-**ayushshekar045@gmail.com**
+🤖 Agentic AI
 
-💼 LinkedIn
+📚 Retrieval-Augmented Generation
 
-https://www.linkedin.com/in/ayush-shekar-ai-engineer
+⚡ Multi-Agent Systems
 
-🌐 GitHub
+🛰 Model Context Protocol
 
-https://github.com/AyushShekar9113
+🎤 Conversational AI
+
+🌐 AI Infrastructure
+
+☁ AI Cloud Systems
+
+📊 AI Evaluation
+
+🧬 Human-Centered AI
 
 ---
 
-# 💬 Quote
+# 🎯 2026 Goals
 
-> **"Building intelligent AI systems that reason, automate, and create real-world impact."**
+✅ Build Production AI Systems
+
+✅ Contribute to Open Source AI
+
+✅ Publish AI Research
+
+✅ Master AI Infrastructure
+
+✅ Advance Agentic AI
+
+✅ Build Scalable Enterprise AI
+
+✅ Expand CUBER Capabilities
 
 ---
 
-⭐ **If you like my work, consider following me and starring my repositories!**
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ayushshekar045@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-shekar-ai-engineer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/AyushShekar9113">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### *"Building intelligent systems that reason, automate, and create real-world impact through Artificial Intelligence."*
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider **following** me and **starring** my repositories.
+
+Let's build the future of AI together! 🚀
+
+</div>
